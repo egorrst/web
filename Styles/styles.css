@@ -1,0 +1,205 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.AllHeader {
+    width: 920px;
+    height: 40px;
+    margin-left: 250px;
+    margin-top: 17px;
+    display: flex;
+}
+
+.header__escape {
+    width: 92px;
+    height: 26px;
+    padding-top: 3px;
+}
+
+.header__menu {
+    width: 337px;
+    height: 40px;
+    padding-left: 491px;
+}
+
+.header__menu li {
+    display: inline-block;
+}
+
+.header__home {
+    width: 39px;
+    height: 20px;
+    padding: 10px 18px 10px 0px;
+    font-size: 12px;
+    font-family: "Oxygen", sans-serif;
+    font-weight: 400px;
+    font-style: normal;
+    text-align: center;
+    letter-spacing: 0.6px;
+}
+
+.header__categories {
+    width: 78px;
+    height: 20px;
+    padding: 10px 18px 10px 19px;
+    font-size: 12px;
+    font-family: "Oxygen", sans-serif;
+    font-weight: 400px;
+    font-style: normal;
+    text-align: center;
+    letter-spacing: 0.6px;
+}
+
+.header__about {
+    width: 41px;
+    height: 20px;
+    padding: 10px 18px 10px 18px;
+    font-size: 11px;
+    font-family: "Oxygen", sans-serif;
+    font-weight: 400px;
+    font-style: normal;
+    text-align: center;
+    letter-spacing: 0.6px;
+}
+
+.header__contact {
+    width: 58px;
+    height: 20px;
+    padding: 10px 0px 10px 18px;
+    font-size: 12px;
+    font-family: "Oxygen", sans-serif;
+    font-weight: 400px;
+    font-style: normal;
+    text-align: center;
+    letter-spacing: 0.6px;
+}
+
+
+.title {
+    width: 498px;
+    height: 51px;
+    margin-top: 156px;
+    margin-left: 471px;
+    font-family: "Lora", serif;
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 51px;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.subtitle {
+    width: 504px;
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 468px;
+    font-family: "Oxygen", sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #2E2E2EA1;
+}
+
+.Glow {
+    width: 1440px;
+    margin-top: 113px;
+}
+
+.text {
+    width: 960px;
+    height: 1431px;
+    margin-top: 140px;
+    margin-left: 240px;
+    font-family: "Oxygen", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #101315;
+}
+
+.footer {
+    margin-top: 135px;
+    width: 1440px;
+    height: 89px;
+    color: rgba(255, 255, 255, 0.6);
+    background-image: url(../Photos/Footer.jpg);
+    background-repeat: no-repeat;
+    border-image: fill 0 linear-gradient(#232F3899, #232F3899);
+}
+
+.Allfooter {
+    width: 950px;
+    height: 34px;
+    padding-left: 240px;
+    padding-top: 28px;
+    display: flex;
+}
+
+.Allfooter__escape {
+    width: 92px;
+    height: 26px;
+    padding-top: 3px;
+}
+
+.Allfooter__menu {
+    width: 272px;
+    height: 32px;
+    padding-left: 576px;
+}
+
+.Allfooter__menu li {
+    display: inline-block;
+}
+
+.Allfooter__home {
+    width: 37px;
+    height: 26px;
+    padding: 5px 0px 0px 0px;
+    font-size: 11px;
+    font-family: "Oxygen", sans-serif;
+    font-weight: 400px;
+    font-style: normal;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+.Allfooter__categories {
+    width: 76px;
+    height: 26px;
+    padding: 0px 0px 0px 16px;
+    font-size: 11px;
+    font-family: "Oxygen", sans-serif;
+    font-weight: 400px;
+    font-style: normal;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+.Allfooter__about {
+    width: 42px;
+    height: 26px;
+    padding: 3px 0px 0px 16px;
+    font-size: 11px;
+    font-family: "Oxygen", sans-serif;
+    font-weight: 400px;
+    font-style: normal;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+.Allfooter__contact {
+    width: 57px;
+    height: 26px;
+    padding: 3px 0px 0px 16px;
+    font-size: 11px;
+    font-family: "Oxygen", sans-serif;
+    font-weight: 400px;
+    font-style: normal;
+    text-align: center;
+    letter-spacing: 1px;
+}
